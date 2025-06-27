@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+django
+torch
+torchvision
+ultralytics
+opencv-python
+ffmpeg-python
+psycopg2-binary
